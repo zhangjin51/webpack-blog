@@ -1,2 +1,2 @@
 # webpack-blog
-vuepress webpack-blgo
+vuepress webpack-blog
